@@ -1,0 +1,13 @@
+metric,value,unit
+Total orders,600.0,orders
+Total order value,3968829214.2,INR
+Average order value,6614715.36,INR/order
+Total quantity,1509070.0,units
+Average delivery days,23.49,days
+On-time delivery rate,77.5,% of order rows
+Return quantity,15242.0,units
+Return-to-quantity rate,1.01,% of units
+Repeat-buyer order rate,37.83,% of order rows
+Unique buyers,187.0,buyers
+Unique sellers,80.0,sellers
+Product categories,10.0,categories

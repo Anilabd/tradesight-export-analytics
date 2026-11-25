@@ -1,0 +1,12 @@
+check,result,notes
+Rows,600,Observed row count
+Columns,13,Observed column count
+Missing cells,0,Across all fields after type conversion
+Exact duplicate rows,0,Exact row duplicates
+Duplicate order IDs,0,Order ID uniqueness check
+Invalid/unparsed order dates,0,Could not parse order_date
+Invalid on_time_delivery values,0,Expected 0 or 1
+Rows where return_qty > quantity_units,2,Requires source/business validation
+Negative numeric values,0,Across selected quantity/value/day fields
+Date start,2023-01-02,Earliest parsed order date
+Date end,2024-12-31,Latest parsed order date
